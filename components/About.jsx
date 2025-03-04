@@ -16,7 +16,7 @@ const About = () => {
           I am a passionate Full Stack Web Developer currently pursuing my B.Tech in Computer Science and Engineering at VIT Vellore. With a strong foundation in frontend and backend technologies, I enjoy building dynamic, user-friendly, and scalable web applications. My journey in development has led me to work with technologies like Next.js, React, Node.js, Express.js, MongoDB, Bootstrap, Tailwind CSS, and HTML, allowing me to create full-fledged applications that offer seamless user experiences.
           </p>
           <p className='py-2 text-gray-600'>
-          I thrive on learning and problem-solving, constantly exploring new technologies to enhance my skill set. Whether it's developing intuitive UIs, optimizing database performance, or integrating APIs, I love the process of turning ideas into functional and impactful solutions. Beyond coding, I enjoy collaborating with teams, taking on challenges, and refining my technical expertise to stay ahead in the ever-evolving world of technology.
+          I thrive on learning and problem-solving, constantly exploring new technologies to enhance my skill set. Whether it is developing intuitive UIs, optimizing database performance, or integrating APIs, I love the process of turning ideas into functional and impactful solutions. Beyond coding, I enjoy collaborating with teams, taking on challenges, and refining my technical expertise to stay ahead in the ever-evolving world of technology.
 
           </p>
           <Link href='/#projects'>
